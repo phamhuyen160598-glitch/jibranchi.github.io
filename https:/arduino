@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Affiliate AI Tools – Tối ưu marketing thông minh</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f5f7fa;
+      color: #333;
+    }
+    header {
+      background: linear-gradient(135deg, #4f46e5, #6366f1);
+      color: white;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    section {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+    .card {
+      background: white;
+      border-radius: 12px;
+      padding: 24px;
+      margin-bottom: 20px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    }
+    .btn {
+      display: inline-block;
+      background: #4f46e5;
+      color: white;
+      padding: 14px 22px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .btn:hover {
+      background: #4338ca;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      font-size: 14px;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Affiliate App & AI Tools</h1>
+    <p>Tối ưu marketing, tăng chuyển đổi với công cụ Affiliate & AI hiện đại</p>
+  </header>
+
+  <section>
+    <div class="card">
+      <h2>Vì sao nên dùng Affiliate App & AI Tool?</h2>
+      <ul>
+        <li>Tự động hoá marketing & theo dõi hoa hồng</li>
+        <li>AI hỗ trợ viết nội dung, phân tích dữ liệu</li>
+        <li>Phù hợp cho người mới lẫn marketer chuyên nghiệp</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>Lợi ích nổi bật</h2>
+      <p>Ứng dụng Affiliate kết hợp AI giúp bạn tiết kiệm thời gian, tối ưu chiến dịch và gia tăng thu nhập bền vững mà không cần kỹ thuật phức tạp.</p>
+    </div>
+
+    <div class="card" style="text-align:center">
+      <h2>Khám phá công cụ ngay</h2>
+      <p>Xem chi tiết các Affiliate App & AI Tool đang được nhiều marketer tin dùng.</p>
+      <a href="#" class="btn">Xem công cụ AI</a>
+    </div>
+  </section>
+
+  <footer>
+    © 2025 – Trang web giới thiệu | Affiliate Marketing
+  </footer>
+
+</body>
+</html>
